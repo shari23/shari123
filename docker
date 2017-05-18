@@ -1,0 +1,4 @@
+  UID   PID  PPID        F CPU PRI NI       SZ    RSS WCHAN     S             ADDR TTY           TIME CMD
+    0 81930 99847     4106   0  31  0  2468972   1736 -      Ss                  0 ttys001    0:00.26 login -pf shari
+  501 81932 81930     4006   0  31  0  2461020    984 -      S                   0 ttys001    0:00.04 -bash
+    0 82433 81932     4106   0  31  0  2442176    832 -      R+                  0 ttys001    0:00.01 ps -all
